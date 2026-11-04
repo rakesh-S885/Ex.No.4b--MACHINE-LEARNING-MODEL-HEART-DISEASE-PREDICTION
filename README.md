@@ -180,7 +180,8 @@ for name, prediction in models.items():
     print("F1 Score :", f1_score(y_test, prediction))
     print()
 ## MODEL COMPARISON
-<img width="591" height="191" alt="image" src="https://github.com/user-attachments/assets/6bb058f3-4231-475d-92d1-2e64233ac6a0" />
+<img width="643" height="460" alt="image" src="https://github.com/user-attachments/assets/78cb3650-3900-4884-a1e7-3db702052fae" />
+
 Comparison
 •	Higher Accuracy → Better overall classification. 
 •	Higher Precision → Fewer false-positive predictions. 
@@ -209,5 +210,3 @@ plt.show()
 
 ## CONCLUSION
 Thus, machine learning classification models were successfully applied for heart disease prediction, and their performance was compared using standard classification evaluation metrics.
-
-
